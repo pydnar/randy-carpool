@@ -1,0 +1,15 @@
+#scheduleComponent {
+    margin-bottom: 100px;
+}
+
+#scheduleForm {
+    height: 400px;
+}
+
+#backToSchedule:hover {
+    cursor: pointer;
+}
+
+.highlight:hover{
+    cursor: pointer;
+}

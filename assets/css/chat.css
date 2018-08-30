@@ -1,0 +1,30 @@
+#chat {
+    height: 450px;
+    overflow: scroll;
+}
+
+#chat li {
+    border: none !important;
+}
+
+#chatBoxes {
+    border: none;
+}
+
+.chat-item {
+    border: none !important;
+    border-radius: 5px;
+}
+
+.innitial {
+    line-height: 40px;
+}
+
+.meta-text {
+    font-size: 12px !important;
+}
+
+.chat-item {
+    margin-top: 5px !important;
+    border: none !important;
+}
